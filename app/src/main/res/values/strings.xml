@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlinkingSun</string>
+    <string name="blink">Blink</string>
+    <string name="reset">Reset</string>
+</resources>

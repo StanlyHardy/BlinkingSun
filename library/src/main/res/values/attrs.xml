@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SunRiseView">
+        <attr name="sun_view_backgound" format="color"/>
+        <attr name="sun_border_color" format="color"/>
+    </declare-styleable>
+</resources>
